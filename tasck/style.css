@@ -1,0 +1,29 @@
+body {
+  background-color: #121116;
+}
+img {
+  width: 24px;
+  color: #fff;
+  margin-right: 30px;
+}
+.logo {
+  width: 150px;
+}
+header {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 60px;
+}
+menu {
+  text-align: center;
+  margin-left: -50px;
+}
+h1 {
+  font-weight: 100;
+  color: rgb(255, 255, 255);
+  letter-spacing: 2px;
+}
+hr {
+  width: 280px;
+  margin-bottom: 30px;
+}
